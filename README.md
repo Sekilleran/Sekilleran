@@ -25,6 +25,6 @@ Me gradué como Técnico en Automotores de "Tecnica n°5 2 de abril, Temperley".
 ## Conéctate Conmigo
 ¡Conéctate conmigo para discutir proyectos emocionantes o simplemente para charlar sobre tecnología!
 - [<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="Linkedin" width="20" height="20">](https://www.linkedin.com/in/sebastian-diaz-68b992250/) 
-- [<img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-256.png" alt="Outlook" width="20" height="20">](mailto:SebastianHD_Diaz1@outlook.com) Outlook: SebastianHD_Diaz1@outlook.com
+- [<img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-256.png" alt="Outlook" width="20" height="20">](mailto:SebastianHD_Diaz1@outlook.com) SebastianHD_Diaz1@outlook.com
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y compartamos ideas innovadoras. 🚀
