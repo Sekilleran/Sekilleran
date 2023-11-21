@@ -8,17 +8,17 @@ Mi viaje en el desarrollo web comenzó hace aproximadamente un año, cuando deci
 ## Habilidades y Tecnologías
 Aquí hay algunas de las habilidades y tecnologías con las que trabajo actualmente:
 
-- ![JavaScript](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png) JavaScript
-- ![React](enlace_al_logo_react) React
-- ![Redux](enlace_al_logo_redux) Redux
-- ![HTML](enlace_al_logo_html) HTML
-- ![CSS](enlace_al_logo_css) CSS
-- ![PostgreSQL](enlace_al_logo_postgresql) PostgreSQL
-- ![Node.js](enlace_al_logo_nodejs) Node.js
-- ![Express](enlace_al_logo_express) Express
-- ![Tailwind CSS](enlace_al_logo_tailwind) Tailwind CSS
-- ![Next.js](enlace_al_logo_nextjs) Next.js
-- ![Auth0](enlace_al_logo_auth0) Auth0
+- <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="JavaScript" width="20" height="20"> JavaScript
+- <img src="enlace_al_logo_react" alt="React" width="20" height="20"> React
+- <img src="enlace_al_logo_redux" alt="Redux" width="20" height="20"> Redux
+- <img src="enlace_al_logo_html" alt="HTML" width="20" height="20"> HTML
+- <img src="enlace_al_logo_css" alt="CSS" width="20" height="20"> CSS
+- <img src="enlace_al_logo_postgresql" alt="PostgreSQL" width="20" height="20"> PostgreSQL
+- <img src="enlace_al_logo_nodejs" alt="Node.js" width="20" height="20"> Node.js
+- <img src="enlace_al_logo_express" alt="Express" width="20" height="20"> Express
+- <img src="enlace_al_logo_tailwind" alt="Tailwind CSS" width="20" height="20"> Tailwind CSS
+- <img src="enlace_al_logo_nextjs" alt="Next.js" width="20" height="20"> Next.js
+- <img src="enlace_al_logo_auth0" alt="Auth0" width="20" height="20"> Auth0
 
 ## Proyectos Destacados
 Algunos de mis proyectos destacados incluyen:
