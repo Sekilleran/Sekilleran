@@ -8,7 +8,7 @@ Mi viaje en el desarrollo web comenzó hace aproximadamente un año, cuando deci
 ## Habilidades y Tecnologías
 Aquí hay algunas de las habilidades y tecnologías con las que trabajo actualmente:
 
-- ![JavaScript]([enlace_al_logo_javascript](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png)) JavaScript
+- ![JavaScript](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png) JavaScript
 - ![React](enlace_al_logo_react) React
 - ![Redux](enlace_al_logo_redux) Redux
 - ![HTML](enlace_al_logo_html) HTML
