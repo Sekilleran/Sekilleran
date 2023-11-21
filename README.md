@@ -9,16 +9,14 @@ Mi viaje en el desarrollo web comenzó hace aproximadamente un año, cuando deci
 Aquí hay algunas de las habilidades y tecnologías con las que trabajo actualmente:
 
 - <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="JavaScript" width="20" height="20"> JavaScript
-- <img src="enlace_al_logo_react" alt="React" width="20" height="20"> React
-- <img src="enlace_al_logo_redux" alt="Redux" width="20" height="20"> Redux
-- <img src="enlace_al_logo_html" alt="HTML" width="20" height="20"> HTML
-- <img src="enlace_al_logo_css" alt="CSS" width="20" height="20"> CSS
-- <img src="enlace_al_logo_postgresql" alt="PostgreSQL" width="20" height="20"> PostgreSQL
-- <img src="enlace_al_logo_nodejs" alt="Node.js" width="20" height="20"> Node.js
-- <img src="enlace_al_logo_express" alt="Express" width="20" height="20"> Express
-- <img src="enlace_al_logo_tailwind" alt="Tailwind CSS" width="20" height="20"> Tailwind CSS
-- <img src="enlace_al_logo_nextjs" alt="Next.js" width="20" height="20"> Next.js
-- <img src="enlace_al_logo_auth0" alt="Auth0" width="20" height="20"> Auth0
+- <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-8/32/react_native-logo-programming-256.png" alt="React" width="20" height="20"> React
+- <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="HTML" width="20" height="20"> HTML
+- <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="CSS" width="20" height="20"> CSS
+- <img src="https://cdn1.iconfinder.com/data/icons/brands-5/512/fi-brands-postgre-256.png" alt="PostgreSQL" width="20" height="20"> PostgreSQL
+- <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png" alt="Node.js" width="20" height="20"> Node.js
+- <img src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-3/15/tailwind-256.png" alt="Tailwind CSS" width="20" height="20"> Tailwind CSS
+- <img src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-2/15/nextjs-256.png" alt="Next.js" width="20" height="20"> Next.js
+- <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/auth0-256.png" alt="Auth0" width="20" height="20"> Auth0
 
 ## Proyectos Destacados
 Algunos de mis proyectos destacados incluyen:
