@@ -18,17 +18,13 @@ Aquí hay algunas de las habilidades y tecnologías con las que trabajo actualme
 - <img src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-2/15/nextjs-256.png" alt="Next.js" width="20" height="20"> Next.js
 - <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/auth0-256.png" alt="Auth0" width="20" height="20"> Auth0
 
-## Proyectos Destacados
-Algunos de mis proyectos destacados incluyen:
-- [Proyecto 1](enlace_al_proyecto_1): Breve descripción o logro destacado.
-- [Proyecto 2](enlace_al_proyecto_2): Breve descripción o logro destacado.
 
 ## Educación y Experiencia
-Me gradué como Técnico en Automotores de [Nombre del Colegio]. Además, he participado en [Nombre del Bootcamp] para perfeccionar mis habilidades en desarrollo web.
+Me gradué como Técnico en Automotores de "Tecnica n°5 2 de abril, Temperley". Además, he participado en Henry para perfeccionar mis habilidades en desarrollo web.
 
 ## Conéctate Conmigo
 ¡Conéctate conmigo para discutir proyectos emocionantes o simplemente para charlar sobre tecnología!
-- [![LinkedIn](linkedin_logo_url)](enlace_a_tu_perfil_de_LinkedIn)
-- [![Outlook](outlook_logo_url)](mailto:tu_correo@outlook.com)
+- <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="Linkedin" width="20" height="20"> Linkedin
+- <img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-256.png" alt="Outlook" width="20" height="20"> Outlook
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y compartamos ideas innovadoras. 🚀
