@@ -1,14 +1,14 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy Sebastian Diaz! 👋
 
 ## Sobre mí
-¡Hola a todos! Soy [Tu Nombre], un joven de 20 años apasionado por la tecnología y el desarrollo web. A los 18 años, completé mi educación en un colegio técnico, donde obtuve el título de Técnico en Automotores. Desde entonces, he estado inmerso en el fascinante mundo de la programación.
+¡Hola a todos! Soy Sebastian, un joven de 20 años apasionado por la tecnología y el desarrollo web. A los 18 años, completé mi educación en un colegio técnico, donde obtuve el título de Técnico en Automotores. Desde entonces, he estado inmerso en el fascinante mundo de la programación.
 
 Mi viaje en el desarrollo web comenzó hace aproximadamente un año, cuando decidí explorar nuevas fronteras y dar rienda suelta a mi creatividad a través del código. Desde entonces, he estado inmerso en el aprendizaje de diversas tecnologías y frameworks, como 💻 JavaScript, ⚛️ React, 🔄 Redux, 🌐 HTML, 🎨 CSS, y más.
 
 ## Habilidades y Tecnologías
 Aquí hay algunas de las habilidades y tecnologías con las que trabajo actualmente:
 
-- ![JavaScript](enlace_al_logo_javascript) JavaScript
+- ![JavaScript]([enlace_al_logo_javascript](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png)) JavaScript
 - ![React](enlace_al_logo_react) React
 - ![Redux](enlace_al_logo_redux) Redux
 - ![HTML](enlace_al_logo_html) HTML
