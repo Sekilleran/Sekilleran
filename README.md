@@ -17,7 +17,7 @@ Aquí hay algunas de las habilidades y tecnologías con las que trabajo actualme
 - <img src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-3/15/tailwind-256.png" alt="Tailwind CSS" width="20" height="20"> Tailwind CSS
 - <img src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-2/15/nextjs-256.png" alt="Next.js" width="20" height="20"> Next.js
 - <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/auth0-256.png" alt="Auth0" width="20" height="20"> Auth0
-
+- <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/shopify-256.png" alt="Shopify" width="20" heigth="20"> Shopify
 
 ## Educación y Experiencia
 Me gradué como Técnico en Automotores de "Tecnica n°5 2 de abril, Temperley". Además, he participado en Henry para perfeccionar mis habilidades en desarrollo web.
