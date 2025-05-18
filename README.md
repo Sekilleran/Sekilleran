@@ -1,7 +1,7 @@
 # ¡Hola, soy Sebastian Diaz! 👋
 
 ## Sobre mí
-¡Hola a todos! Soy Sebastian, un joven de 20 años apasionado por la tecnología y el desarrollo web. A los 18 años, completé mi educación en un colegio técnico, donde obtuve el título de Técnico en Automotores. Desde entonces, he estado inmerso en el fascinante mundo de la programación.
+¡Hola a todos! Soy Sebastian, un joven de 22 años apasionado por la tecnología y el desarrollo web. A los 18 años, completé mi educación en un colegio técnico, donde obtuve el título de Técnico en Automotores. Desde entonces, he estado inmerso en el fascinante mundo de la programación.
 
 Mi viaje en el desarrollo web comenzó hace aproximadamente un año, cuando decidí explorar nuevas fronteras y dar rienda suelta a mi creatividad a través del código. Desde entonces, he estado inmerso en el aprendizaje de diversas tecnologías y frameworks, como 💻 JavaScript, ⚛️ React, 🔄 Redux, 🌐 HTML, 🎨 CSS, y más.
 
